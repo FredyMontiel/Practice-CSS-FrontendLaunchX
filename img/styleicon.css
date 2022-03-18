@@ -1,0 +1,105 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?8gyybc');
+  src:  url('fonts/icomoon.eot?8gyybc#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?8gyybc') format('truetype'),
+    url('fonts/icomoon.woff?8gyybc') format('woff'),
+    url('fonts/icomoon.svg?8gyybc#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-chart:before {
+  content: "\e902";
+}
+.icon-chat-bubble-dots:before {
+  content: "\e903";
+}
+.icon-shield:before {
+  content: "\e904";
+}
+.icon-user-group:before {
+  content: "\e906";
+}
+.icon-location:before {
+  content: "\e907";
+}
+.icon-calendar:before {
+  content: "\e900";
+}
+.icon-envelope:before {
+  content: "\e908";
+}
+.icon-chat-alt-stroke:before {
+  content: "\e909";
+}
+.icon-heart-fill:before {
+  content: "\e90a";
+}
+.icon-list-nested:before {
+  content: "\e901";
+}
+.icon-pencil:before {
+  content: "\e905";
+}
+.icon-location2:before {
+  content: "\e948";
+}
+.icon-clock2:before {
+  content: "\e94f";
+}
+.icon-calendar1:before {
+  content: "\e953";
+}
+.icon-video-camera:before {
+  content: "\e914";
+}
+.icon-folder-open:before {
+  content: "\e930";
+}
+.icon-phone:before {
+  content: "\e942";
+}
+.icon-clock21:before {
+  content: "\e950";
+}
+.icon-users:before {
+  content: "\e972";
+}
+.icon-heart:before {
+  content: "\e9da";
+}
+.icon-checkbox-checked:before {
+  content: "\ea52";
+}
+.icon-calendar2:before {
+  content: "\f073";
+}
+.icon-tasks:before {
+  content: "\f0ae";
+}
+.icon-plus-square:before {
+  content: "\f0fe";
+}
+.icon-check-square:before {
+  content: "\f14a";
+}
+.icon-pencil-square:before {
+  content: "\f14b";
+}
